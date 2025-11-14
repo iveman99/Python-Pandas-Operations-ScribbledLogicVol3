@@ -41,13 +41,13 @@ Her teaching continues to turn complex data concepts into simple, structured thi
 ---
 
 ### 📂 Repository Structure  
+```text
 Python-Pandas-Operations-ScribbledLogicVol3/
 │
 ├── Pandas_Operations.ipynb
 ├── Pandas_Operations.pdf
 └── README.md
-
-
+```
 ---
 
 ### 🧩 About the Scribbled Logic Series  
